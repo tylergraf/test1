@@ -1,0 +1,17 @@
+{
+  "name": "test1",
+  "homepage": "https://github.com/tylergraf/test1",
+  "authors": [
+    "Tyler Graf <tylergraf@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
