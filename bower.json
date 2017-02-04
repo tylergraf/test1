@@ -1,6 +1,7 @@
 {
   "name": "test1",
   "homepage": "https://github.com/tylergraf/test1",
+  "version": "0.0.1",
   "authors": [
     "Tyler Graf <tylergraf@gmail.com>"
   ],
